@@ -1,0 +1,26 @@
+Integrantes da equipe:
+Maycon, Fernando Gabriel, Guilherme e João Vinicius;
+
+Resumo do Projeto:
+Simulação de um sistema de cantina, usando banco dados e java
+
+Fizemos tudo?
+Não, não conseguimos implementar tudo.
+
+O que não conseguiu fazer ?
+- A tabela venda e itens no banco de dados e a implementação dela no java
+- E o relatorio de lucro diario e mensal.
+
+Material consultado:
+- Caellum
+
+Como configurar o computador para rodar:
+- Iniciar o Xamp Control no Apache, MySql e Filezilla
+- Criar um banco de dados chamado "cantina"
+- Criar uma tabela item com os seguites atributos: descricao, nome, preco_compra, preco_venda, quantidade_comprada, quantidade_vendida, quantidade, codigo(chave primaria);
+- Criar uma tabela Funcionario com os seguintes atributos: nome, codigo(chame primaria), senha.
+usuario do banco: "root".
+senha: "".
+Banco usado: mySql.
+
+
